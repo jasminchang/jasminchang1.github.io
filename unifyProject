@@ -1,4 +1,4 @@
-#This is the HTML
+#This is the HTML (there are more files with the rest of info on the other tabs)
 <!DOCTYPE html>
 <html>
   <link rel = "stylesheet" href="unify.css">
@@ -12,18 +12,23 @@
       <nav>
         <ul>
           <center>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Resources</a></li>
-          <li><a href="#">Be an Ally</a></li>
-          <li><a href="#">Current Events</a></li>
-          <li><a href="#">Acknowledgements</a></li>
-          <li><a href="#">Sources</a></li>
+          <li><a href="unify.html">Home</a></li>
+          <li><a href="unifyResources.html">Resources</a></li>
+          <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+          <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+          <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+          <li><a href="unifySources.html">Sources</a></li>
           </center>
         </ul>
       </nav>
     </div>
   </header>
-
+  <div class = "content">
+    <h2>Our Mission</h2>
+    <p>At Unify our mission is to provide equitable information access to all immigrants in their process of transitioning into living in the United States. We strive to create a centralized website that has links to resources and information on topics that relate to their situations. We also create a section for people who aren't immigrants so that they learn ways they can be involved and be a true ally to all immigrants. Under the current events section one can become informed on what is happening in our country regarding immigration, from legislation being passed to events happening around us. We are also aware of the stigma and stereotypes made about immigrants by those who hold prejudice, in an effort to  decrease that cultural divide and dismantle any discriminatory rhetoric we made the acknowledgments section to praise and give a platform to the stories and accomplishments of immigrants. The resources provided through Unify are not the only ones available. Feel free to contact the Unify Team if you have any questions or suggestions!</p>
+    <h2>About Us</h2>
+    <p>The Unify team consists of Arianna Montoya, Jasmin Chang, and Furtuna Tesfai. We are all a part of the Girls Who Code Summer Immersion Program at Amazon Seattle and chose to create Unify for our final project. Our project prompt was to think of a way that technology can be used to solve problems and influence the world around us. We needed to create a product for an intended audience and be able to plan, document, create, and pitch our idea in only two weeks. With a growing discussion about immigrants we felt using our knowledge to support an underprivileged community would not only make a good project but even make a real impact in our own community. Please contact us for any further questions about Unify or suggestions for our site, thank you!</p>
+  </div>
   </body>
   </html>
 
