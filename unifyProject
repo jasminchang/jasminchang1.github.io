@@ -106,3 +106,75 @@ nav a::before {
 nav a:hover::before {
   width: 100%;
 }
+
+#This is the Resources HTML file
+<!DOCTYPE html>
+<html>
+  <link rel = "stylesheet" href="unify.css">
+  <head>
+    <title>Unify</title>
+  </head>
+  <body>
+  <header>
+    <div class="container">
+      <h1 class="logo">UNIFY</h1>
+      <nav>
+        <ul>
+          <center>
+          <li><a href="unify.html">Home</a></li>
+          <li><a href="unifyResources.html">Resources</a></li>
+          <li><a href="unifyBeAnAlly.html">Be an Ally</a></li>
+          <li><a href="unifyCurrentEvents.html">Current Events</a></li>
+          <li><a href="unifyAcknowledgements.html">Acknowledgements</a></li>
+          <li><a href="unifySources.html">Sources</a></li>
+          </center>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class = "content">
+    <u><h2>Your Rights</h2></u>
+    <h3>Overview</h3>
+      <p>As you go through the process of transitioning into the United States as an immigrant there are rights that every person in the U.S has guaranteed under the U.S Constitution. You never know when you might come in contact with immigration or law enforcement; it's important to know and practice scenarios so that you, your friends and your family are prepared for any situation. Understanding you rights and how to respond in certain situations will help you to respond appropriately if you encounter police or immigration enforcement.</p>
+    <h3>Rights You Have</h3>
+      <ul>
+        <li>You have the right to remain silent and you DO NOT have to discuss your immigration or citizenship status with police, immigration agents, or other officials, as anything you tell an officer can later be used against you in immigration court.</li>
+        <li>If you are not a U.S Citizen and an immigration agent requests for your immigration papers you must show them if you have them with you.</li>
+        <li>If an immigration officer/agent asks if they can search you, you have the right to say no, as agents DO NOT have the right to search you or your belongings without your consent or probable cause.</li>
+        <li>If you're over 18, carry your papers with you at all times. If you don't have them and you're confronted by an officer tell them that you want to remain silent, or that you want to consult a lawyer before answering any questions.</li>
+        <li>If you need more information contact your local <a href = https://www.aclu.org/about/affiliates?redirect>ACLU affiliate.</a></li>
+      </ul>
+    <h3>What to do in Certain Scenarios</h3>
+      <ul>
+        <li>If you are stopped by law enforcement and told to identify yourself, you must provide your name, but you do not have to answer any other questions.</li>
+        <li>If you are driving and are pulled over, the officer can ask you to show your license, vehicle registration and proof of insurance -  all of which you are required to show - but you don't have to answer questions regarding your immigration status.</li>
+        <li>When entering or leaving the country, customs officers can ask about your immigration status. If you are a lawful permanent resident (LPR) who has maintained your status, you are only required to answer questions establishing your identity and permanent residency. If you refuse to answer other questions, it will likely cause delay, but officials may not deny you entry into the United States for failure to answer other questions. However if you are a non-citizen visa holder, you may be denied entry into the United States if you refuse to answer any other questions asked by officers.</li>
+      </ul>
+      <p>Find more information at the following websites.</p>
+      <ul>
+        <li><a href=https://www.aclu.org/know-your-rights/immigrants-rights/#law-enforcement-asks-about-my-immigration-status>ACLU website</a> - Know Your Rights & How to Act in Different Scenarios</li>
+        <li><a href=https://www.nilc.org/get-involved/community-education-resources/know-your-rights/>National Immigration Law Center</a> - Know Your Rights</li>
+      </ul>
+    <u><h2>Governmental Resources</h2></u>
+      <p>Although an undocumented immigration status can often be an obstacle in obtaining aid from the government, do not fret many options exist to assist your family. From nutrition programs, financial aid for students, and healthcare options it is possible to get help in the state of Washington without fear.</p>
+      <h3>Nutrition</h3>
+        <h4>Supplemental Nutrition Assistance Program (Food Stamps)</h4>
+          <p>SNAP is a program that provides nutritional assistance to families who can't afford big food budgets. The benefits can be used to purchase food in grocery stores, convenience stores, and some farmers markets and co-ops. Unfortunately undocumented citizens do not qualify for food stamps but if undocumented immigrants have children who are U.S. citizens then they are elegible to apply for assistance. Find more information at the link <a href=http://www.gettingfoodstamps.org/helpforimmigrants.html>here</a>.</p>
+        <h4>Women, Infants, and Children (WIC) Supplemental Nutrition Program</h4>
+          <p>Lastly, another great option for a specific group of people is WIC, they provide nutritional assistance to expecting mothers, new moms, or moms with children under 5. Find more information <a href=https://www.kingcounty.gov/depts/health/child-teen-health/women-infants-children.aspx>here</a>.</p>
+      <h3>Health</h3>
+        <p>Like SNAP undocumented immigrants unfortunately do not qualify for any federal assistance health programs, such as Medicaid or Medicare. Keep in mind that options do exist to help ease the cost of medical expenses for you.</p>
+        <h4>Emergency Medicaid</h4>
+          <p>Since hospitals are required to provide treatment to all patients who have acute medical emergencies, Emergency Medicaid exists. Only in the case of having to use Emergency Medicaid is Medicaid offered to those without citizenship. Find more information <a href=https://mymedicare.com/medicaid/emergency-medicaid/>here</a>.</p>
+        <h4>Community Health Centers</h4>
+          <p>Another option for when you are not experiencing emergency medical assistance is attending community health centers. Community health centers provide service to everyone whether you are insured or uninsured. Usually their rates are much cheaper than those found in normal clinics. Visit King County's page of community health centers to find one near you <a href=https://www.kingcounty.gov/depts/health/locations/community-health-centers.aspx>here</a>.</p>
+      <h3>Education</h3>
+        <p>Another barrier that many face is education, especially for undocumented children. To preface this any child no matter their immigration status can attend public schooling. Do not let immigration status deflect an opportunity at an education. As for post-secondary education DACA students have many options for applying to college, if they wish. Currently no federal legislation exists that stops undocumented immigrants from attending college. The big barrier for them is usually finding a way to pay for college. DACA students in Washington state have the option of applying to WAFSA, as FAFSA is not an option for undocumented students. WAFSA is a financial aid program that includes students who are not eligible for FAFSA due to immigration status. Find the WAFSA portal <a href=https://readysetgrad.wa.gov/wasfa>here</a>.</p>
+    <u><h2>Community Help</h2></u>
+    <u><h2>Process to Citizenship</h2></u>
+
+
+
+  </div>
+  </body>
+  </html>
